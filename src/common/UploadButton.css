@@ -1,0 +1,16 @@
+.upload-image-btn {
+  width: 12rem;
+  padding: 0.8rem;
+  border-radius: 0.2rem;
+  background-color: dodgerblue;
+  opacity: 0.8;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.upload-image-btn:hover {
+  opacity: 1;
+}

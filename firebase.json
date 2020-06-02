@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "image-uploader-59ef4-uploader",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}

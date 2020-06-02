@@ -1,0 +1,34 @@
+.image-uploader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-uploader__view {
+  width: 40rem;
+}
+
+.image-uploader__upload-btn {
+  margin-top: 2rem;
+}
+
+.view__content {
+  height: 30rem;
+  margin-bottom: 0.2rem;
+}
+
+.view__meta {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.info__preview {
+  color: blue;
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.info__preview:hover {
+  opacity: 1;
+}
